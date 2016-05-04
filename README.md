@@ -5,7 +5,7 @@
 
 * [Architect](#Architect)
 * [Language](#Language)
-  * [Java](#Java)
+  * [Java](#java)
 
   
   
