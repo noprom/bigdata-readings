@@ -1,17 +1,21 @@
 # Must Readings
 ============================
 
+## Intruduction
+A must read list of books, blogs and papers on the way to the master.
+If you have a good recommendation, please use [Issues](https://github.com/noprom/bigdata-readings/issues) or make a pull request.
+
 ## Contents
 
-* [Architect](#Architect)
-* [Language](#Language)
+* [Architect](#architect)
+* [Language](#language)
   * [Java](#java)
 
-  
-  
 ## Language
 
 ### Java
+
+##### Books
 
  * [Thinking in Java (4th Edition)](http://www.amazon.com/Thinking-Java-4th-Bruce-Eckel/dp/0131872486/ref=sr_1_1?ie=UTF8&qid=1462333024&sr=8-1&keywords=Thinking+in+Java)
  * [Java Concurrency in Practice](http://www.amazon.com/Java-Concurrency-Practice-Brian-Goetz/dp/0321349601/ref=sr_1_1?ie=UTF8&qid=1462333203&sr=8-1&keywords=Java+Concurrency+in+Practice)
