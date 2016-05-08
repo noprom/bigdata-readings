@@ -8,9 +8,14 @@ If you have a good recommendation, please use [Issues](https://github.com/noprom
 ## Contents
 
 * [Architect](#architect)
+* [Medical](#medical)
 * [Language](#language)
   * [Java](#java)
   * [Scala](#scala)
+
+## Medical
+### Books
+* [Eric Topol-The Creative Destruction of Medicine-How the Digital Revolution Will Create Better Health Care-Basic Books (2012)](http://www.amazon.com/Creative-Destruction-Medicine-Digital-Revolution/dp/0465061834/ref=sr_1_1?ie=UTF8&qid=1462751342&sr=8-1&keywords=The+Creative+Destruction+of+Medicine)
 
 ## Language
 
