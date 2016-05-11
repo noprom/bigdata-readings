@@ -10,10 +10,11 @@ If you have a good recommendation, please use [Issues](https://github.com/noprom
 * [Architect](#architect)
 * [BigData](#bigdata)
   * [Spark](#spark)
-* [Medical](#medical)
 * [Language](#language)
   * [Java](#java)
   * [Scala](#scala)
+* [Medical](#medical)
+* [Security](#security)
 
 ## Architect
 
@@ -22,10 +23,6 @@ If you have a good recommendation, please use [Issues](https://github.com/noprom
 ### Spark
 * Books
  * [Learning Spark: Lightning-Fast Big Data Analysis](http://www.amazon.com/Learning-Spark-Lightning-Fast-Data-Analysis/dp/1449358624/ref=sr_1_1?ie=UTF8&qid=1462835918&sr=8-1&keywords=Learning+Spark)
-
-## Medical
-### Books
-* [Eric Topol-The Creative Destruction of Medicine-How the Digital Revolution Will Create Better Health Care-Basic Books (2012)](http://www.amazon.com/Creative-Destruction-Medicine-Digital-Revolution/dp/0465061834/ref=sr_1_1?ie=UTF8&qid=1462751342&sr=8-1&keywords=The+Creative+Destruction+of+Medicine)
 
 ## Language
 
@@ -40,3 +37,13 @@ If you have a good recommendation, please use [Issues](https://github.com/noprom
 
 * Books
  * [Programming in Scala, 2nd Edition](http://www.amazon.com/Programming-Scala-Comprehensive-Step---Step/dp/0981531644/ref=sr_1_1?ie=UTF8&qid=1462335165&sr=8-1&keywords=Programming+in+Scala%2C+2nd+Edition)
+
+ 
+
+## Medical
+### Books
+* [Eric Topol-The Creative Destruction of Medicine-How the Digital Revolution Will Create Better Health Care-Basic Books (2012)](http://www.amazon.com/Creative-Destruction-Medicine-Digital-Revolution/dp/0465061834/ref=sr_1_1?ie=UTF8&qid=1462751342&sr=8-1&keywords=The+Creative+Destruction+of+Medicine)
+
+## Security
+### Books
+* [The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws](http://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470/ref=sr_1_1?s=books&ie=UTF8&qid=1463005442&sr=1-1&keywords=The+web+application+hacker%27s+handbook)
