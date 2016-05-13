@@ -44,6 +44,7 @@ If you have a good recommendation, please use [Issues](https://github.com/noprom
 ## Medical
 ### Books
 * [Eric Topol-The Creative Destruction of Medicine-How the Digital Revolution Will Create Better Health Care-Basic Books (2012)](http://www.amazon.com/Creative-Destruction-Medicine-Digital-Revolution/dp/0465061834/ref=sr_1_1?ie=UTF8&qid=1462751342&sr=8-1&keywords=The+Creative+Destruction+of+Medicine)
+* [The Patient Will See You Now: The Future of Medicine is in Your Hands](http://www.amazon.com/Patient-Will-See-You-Now/dp/0465054749/ref=sr_1_1?ie=UTF8&qid=1463153284&sr=8-1&keywords=The+Patient+Will+See+You+Now)
 
 
 ## Machine Learning
