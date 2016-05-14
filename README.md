@@ -1,15 +1,18 @@
 # Must Readings
-============================
+====================================
 
 ## Intruduction
 A must read list of books, blogs and papers on the way to the master.
 If you have a good recommendation, please use [Issues](https://github.com/noprom/bigdata-readings/issues) or make a pull request.
 
 ## Contents
-
+* [AI](#ai)
 * [Architect](#architect)
 * [BigData](#bigdata)
+  * [Flume](#flume)
+  * [Kafka](#kafka)
   * [Spark](#spark)
+  * [Zeppelin](#zeppelin)
 * [Language](#language)
   * [Java](#java)
   * [Scala](#scala)
@@ -17,13 +20,30 @@ If you have a good recommendation, please use [Issues](https://github.com/noprom
 * [Machine Learning](#machinelearning)
 * [Security](#security)
 
+## AI
+* Books
+ * [Artificial Intelligence: A Modern Approach (3rd Edition)](http://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597/ref=sr_1_4?s=books&ie=UTF8&qid=1463228419&sr=1-4&keywords=artificial+intelligence)
+
 ## Architect
+* Books
+ * [Site Reliability Engineering: How Google Runs Production Systems](http://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X/ref=sr_1_1?s=books&ie=UTF8&qid=1463228868&sr=1-1&keywords=Site+Reliability+Engineering)
 
 ## BigData
+
+### Flume
+* Books
+ * [Using Flume: Flexible, Scalable, and Reliable Data Streaming](http://www.amazon.com/Using-Flume-Flexible-Scalable-Streaming/dp/1449368301/ref=sr_1_1?ie=UTF8&qid=1463227866&sr=8-1&keywords=Using.Flume)
+
+### Kafka
+* Books
+ * [Learning Apache Kafka Second Edition](http://www.amazon.com/Learning-Apache-Nishant-26-Feb-2015-Paperback/dp/B011T6VPY8/ref=sr_1_1?ie=UTF8&qid=1463228007&sr=8-1&keywords=Learning+Apache+Kafka%2C+2nd+Edition)
+ * [Apache Kafka Cookbook](http://www.amazon.com/Apache-Kafka-Cookbook-Saurabh-Minni/dp/1785882449/ref=sr_1_1?ie=UTF8&qid=1463228084&sr=8-1&keywords=Packt.Apache.Kafka.Cookbook)
 
 ### Spark
 * Books
  * [Learning Spark: Lightning-Fast Big Data Analysis](http://www.amazon.com/Learning-Spark-Lightning-Fast-Data-Analysis/dp/1449358624/ref=sr_1_1?ie=UTF8&qid=1462835918&sr=8-1&keywords=Learning+Spark)
+ * [Advanced Analytics with Spark: Patterns for Learning from Data at Scale](http://www.amazon.com/Advanced-Analytics-Spark-Patterns-Learning/dp/1491912766/ref=sr_1_1?ie=UTF8&qid=1463228140&sr=8-1&keywords=OReilly.Advanced.Analytics.with.Spark.Patterns.for.Learning.from.Data.at.Scale)
+ * [Learning Real Time processing with Spark Streaming](http://www.amazon.com/Learning-Real-processing-Spark-Streaming/dp/1783987669/ref=sr_1_1?ie=UTF8&qid=1463228242&sr=8-1&keywords=Packt.Learning.Real.Time.processing.with.Spark.Streaming)
 
 ## Language
 
@@ -50,6 +70,8 @@ If you have a good recommendation, please use [Issues](https://github.com/noprom
 ## Machine Learning
 ### Books
 * [Pattern Recognition and Machine Learning (Information Science and Statistics)](http://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738/ref=sr_1_1?s=books&ie=UTF8&qid=1463103480&sr=1-1&keywords=pattern+recognition+and+machine+learning)
+* [Machine Learning in Action](http://www.amazon.com/Machine-Learning-Action-Peter-Harrington/dp/1617290181/ref=sr_1_1?s=books&ie=UTF8&qid=1463228525&sr=1-1&keywords=Machine+Learning+in+Action)
+* [Python Machine Learning](http://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka/dp/1783555130/ref=sr_1_2?s=books&ie=UTF8&qid=1463228525&sr=1-2&keywords=Machine+Learning+in+Action)
 
 ## Security
 ### Books
