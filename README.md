@@ -28,6 +28,7 @@ If you have a good recommendation, please use [Issues](https://github.com/noprom
 ## Architect
 * Books
  * [Site Reliability Engineering: How Google Runs Production Systems](http://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X/ref=sr_1_1?s=books&ie=UTF8&qid=1463228868&sr=1-1&keywords=Site+Reliability+Engineering)
+ * [Building Microservices](http://www.amazon.com/Building-Microservices-Sam-Newman/dp/1491950358/ref=sr_1_1?ie=UTF8&qid=1463354935&sr=8-1&keywords=Building+Microservices)
 
 ## BigData
 
@@ -68,7 +69,7 @@ If you have a good recommendation, please use [Issues](https://github.com/noprom
 * [The Patient Will See You Now: The Future of Medicine is in Your Hands](http://www.amazon.com/Patient-Will-See-You-Now/dp/0465054749/ref=sr_1_1?ie=UTF8&qid=1463153284&sr=8-1&keywords=The+Patient+Will+See+You+Now)
 
 
-## Machine Learning
+## MachineLearning
 ### Books
 * [Pattern Recognition and Machine Learning (Information Science and Statistics)](http://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738/ref=sr_1_1?s=books&ie=UTF8&qid=1463103480&sr=1-1&keywords=pattern+recognition+and+machine+learning)
 * [Machine Learning in Action](http://www.amazon.com/Machine-Learning-Action-Peter-Harrington/dp/1617290181/ref=sr_1_1?s=books&ie=UTF8&qid=1463228525&sr=1-1&keywords=Machine+Learning+in+Action)
