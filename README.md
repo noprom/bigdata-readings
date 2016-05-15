@@ -23,6 +23,7 @@ If you have a good recommendation, please use [Issues](https://github.com/noprom
 ## AI
 * Books
  * [Artificial Intelligence: A Modern Approach (3rd Edition)](http://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597/ref=sr_1_4?s=books&ie=UTF8&qid=1463228419&sr=1-4&keywords=artificial+intelligence)
+ * [Medical Applications of Artificial Intelligence](http://www.amazon.com/Medical-Applications-Artificial-Intelligence-Arvin/dp/1439884331/ref=sr_1_1?ie=UTF8&qid=1463275959&sr=8-1&keywords=Medical+Applications+of+Artificial+Intelligence)
 
 ## Architect
 * Books
