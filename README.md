@@ -8,11 +8,12 @@ If you have a good recommendation, please use [Issues](https://github.com/noprom
 ## Contents
 * [AI](#ai)
 * [Architect](#architect)
-* [BigData](#bigdata)
+* [Big Data](#bigdata)
   * [Flume](#flume)
   * [Kafka](#kafka)
   * [Spark](#spark)
   * [Zeppelin](#zeppelin)
+* [Cloud Computing](#cloudcomputing)
 * [Language](#language)
   * [Java](#java)
   * [Scala](#scala)
@@ -46,6 +47,8 @@ If you have a good recommendation, please use [Issues](https://github.com/noprom
  * [Learning Spark: Lightning-Fast Big Data Analysis](http://www.amazon.com/Learning-Spark-Lightning-Fast-Data-Analysis/dp/1449358624/ref=sr_1_1?ie=UTF8&qid=1462835918&sr=8-1&keywords=Learning+Spark)
  * [Advanced Analytics with Spark: Patterns for Learning from Data at Scale](http://www.amazon.com/Advanced-Analytics-Spark-Patterns-Learning/dp/1491912766/ref=sr_1_1?ie=UTF8&qid=1463228140&sr=8-1&keywords=OReilly.Advanced.Analytics.with.Spark.Patterns.for.Learning.from.Data.at.Scale)
  * [Learning Real Time processing with Spark Streaming](http://www.amazon.com/Learning-Real-processing-Spark-Streaming/dp/1783987669/ref=sr_1_1?ie=UTF8&qid=1463228242&sr=8-1&keywords=Packt.Learning.Real.Time.processing.with.Spark.Streaming)
+
+## CloudComputing
 
 ## Language
 
