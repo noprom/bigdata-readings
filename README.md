@@ -72,6 +72,7 @@ If you have a good recommendation, please use [Issues](https://github.com/noprom
 ## MachineLearning
 ### Books
 * [Pattern Recognition and Machine Learning (Information Science and Statistics)](http://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738/ref=sr_1_1?s=books&ie=UTF8&qid=1463103480&sr=1-1&keywords=pattern+recognition+and+machine+learning)
+* [Neural Networks and Learning Machines (3rd Edition)](http://www.amazon.com/Neural-Networks-Learning-Machines-3rd/dp/0131471392/ref=sr_1_1?ie=UTF8&qid=1463693637&sr=8-1&keywords=Neural+Networks+and+Learning+Machines)
 * [Machine Learning in Action](http://www.amazon.com/Machine-Learning-Action-Peter-Harrington/dp/1617290181/ref=sr_1_1?s=books&ie=UTF8&qid=1463228525&sr=1-1&keywords=Machine+Learning+in+Action)
 * [Python Machine Learning](http://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka/dp/1783555130/ref=sr_1_2?s=books&ie=UTF8&qid=1463228525&sr=1-2&keywords=Machine+Learning+in+Action)
 
